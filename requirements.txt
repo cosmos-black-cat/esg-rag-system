@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=1.0.0
+transformers>=4.40.0
+sentence-transformers>=2.3.0
+faiss-cpu>=1.8.0
+torch>=2.1.0
+numpy>=1.24.0
+pypdf>=4.0.0
+google-generativeai>=0.3.0
+pandas>=2.2.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
