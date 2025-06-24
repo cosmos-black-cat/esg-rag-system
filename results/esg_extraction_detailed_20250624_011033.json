@@ -1,0 +1,1013 @@
+{
+  "extraction_results": {
+    "指標1_再生材料使用比例": [
+      {
+        "keyword": "再生材料使用比例",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "產品單位用電 / 汽量 ( 主要產品總用\n電 / 汽量 ÷主要產品產量 ) 需較前\n一年平均值減少 5%\n使用再生物料政策 質化敘述\nPP 扁紗級回收料膠粒 (RP1040) 添\n加 30% 消費後再生 (PCR) PP ，已於\n2022 年 7 月 28 日取得塑膠工業技術\n發展中心認證，2023 年共售出 160.5 \n噸，用於生產含 PP 再生料編織袋\n水資源\n用水量 公噸 22,741,4...",
+        "page_info": "第167頁, 第109頁, 第108頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於再生材料使用的明確百分比。"
+      },
+      {
+        "keyword": "再生塑膠佔比",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n169\nIV. 上市公司編製與申報永續報告書作\n業辦法\n 特定產業永續揭露指標 - 塑膠工業\n編號 指標 指標種類 年度揭露情形 單位 備註\n一\n消耗能源總量 量化 24,101,059 十億焦耳(GJ)\n外購電力百分比 量化 69 百分比 (%)\n再生能源使用率 量化 0 百分...",
+        "page_info": "第169頁, 第167頁, 第108頁",
+        "explanation": "文本中提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於再生塑料比例的最直接信息。"
+      },
+      {
+        "keyword": "rPET含量",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "(ECH) 97,707 85,822 74,558\n正丁醇\n(NBA) 198,178 224,295 235,342\n高吸水性樹\n脂 (SAP) 164,758 191,589 200,711\n丙烯腈 (AN) 277,001 197,613 256,591\n乙烯醋酸乙\n烯酯共聚物\n(EVA)\n302,895 287,184 320,858\n\n產品單位用電 / 汽量 ( 主要產品總用\n電 / ...",
+        "page_info": "第166頁, 第167頁, 第166頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於PP再生材料的百分比，與rPET含量雖然不是同一種材料，但屬於同一個概念，即再生材料的比例。"
+      },
+      {
+        "keyword": "PCR材料使用",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第167頁, 第55頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於PCR材料使用的百分比數據。"
+      },
+      {
+        "keyword": "導入再生料",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n86\n循環經濟 機會 / 產品與服務 中度機會9.\n現況之風險或機會分析 ( 可能對公司之影響 )\n因應策略及目標\n案 例\n考量產品生命週期及價值鏈，2023 年投 入 27.8 億元，從降低原料使用、製程改善、供應鏈運輸減量等三方面，進行低\n碳產品之開發。同時，導入循環經濟，將製程中產生的廢氣、廢棄物回收再利用，一方面降低生產成本，一方面促進資\n源...",
+        "page_info": "第86頁, 第167頁, 第107頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於導入再生料的明確百分比數據。"
+      },
+      {
+        "keyword": "recycled content ratio%",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n168\n主題 指標項目 指標說明 2023 年成果數據 備註說明\n水資源 水資源管理或減量目標 質化敘述\n產品單位用水量 ( 主要產品總用水量\n÷主要產品產量 )，需較前一年平均\n值減少 5%\n用水密度 = 用水量 ( 公\n噸 )/ 當年個體財報營收\n( 百萬元 )\n廢棄物\n有害廢棄物量 公噸 2,988\n包含毒性有害事業廢棄\n物 (B 類 ) 及有...",
+        "page_info": "第168頁, 第169頁, 第8頁",
+        "explanation": "文本中未提及recycled content ratio% 或任何相關的百分比數據。"
+      },
+      {
+        "keyword": "PCR plastic usage",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第167頁, 第3頁",
+        "explanation": "文本中提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，明確指出PCR PP的比例為30%。雖然這指的是RP1040而非所有PCR塑料，但這是文本中唯一明確的百分比數據。"
+      },
+      {
+        "keyword": "rPET content",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "及切身參與感\n預計以麥寮正丁醇廠為示範廠，優先整合跨\n製程單元的 AI 模組，預計 2024 年底完成 ，\n並上線測試\n ▼ 訓練各事業部 RPA 流程開發技術人員，\n具備 RPA 工具運用能力\n ▼ 制訂執行績效 KPI 評核及獎勵機制\n2024 年預計再導入企業各機能規章制度及常\n用的石化產業外部網站等資料，以提升台塑\n版 ChatGPT 實用性\n ▼ 訂有 AI 提案獎勵機制，每月進行審查，...",
+        "page_info": "第38頁, 第167頁, 第166頁",
+        "explanation": "文本中未提及\"rPET content\"或任何相關的百分比數據。"
+      },
+      {
+        "keyword": "% recycled materials",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "89.1%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n109\n3.5.3 廢棄物資源化再利用\n本公司持續推動將廢棄物再利用，藉由輔導下游業者，將原本廢棄物以再利用方式資源化，進而減少廢棄物\n之焚化或掩埋。\n3.6 有害物質管理\n3.6.1 有害物質管理措施\n 有害物質管理策略\n本公司透過原料選擇、化學品使用安全及產品危害評估，降低製...",
+        "page_info": "第109頁, 第108頁, 第107頁",
+        "explanation": "文本中明確提到2023年公司產出事業廢棄物中，經資源化處理的比例為89.1%。雖然沒有直接提及\"% recycled materials\"，但這是最相關的數據，代表廢棄物再利用的比例。"
+      },
+      {
+        "keyword": "recycled plastic usage rate",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "產品單位用電 / 汽量 ( 主要產品總用\n電 / 汽量 ÷主要產品產量 ) 需較前\n一年平均值減少 5%\n使用再生物料政策 質化敘述\nPP 扁紗級回收料膠粒 (RP1040) 添\n加 30% 消費後再生 (PCR) PP ，已於\n2022 年 7 月 28 日取得塑膠工業技術\n發展中心認證，2023 年共售出 160.5 \n噸，用於生產含 PP 再生料編織袋\n水資源\n用水量 公噸 22,741,4...",
+        "page_info": "第167頁, 第168頁, 第169頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於再生塑料使用率的直接數據。"
+      },
+      {
+        "keyword": "PCR material use",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第167頁, 第55頁",
+        "explanation": "文本中明確提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這是關於PCR材料使用的百分比數據。"
+      },
+      {
+        "keyword": "post-consumer plastic share",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n86\n循環經濟 機會 / 產品與服務 中度機會9.\n現況之風險或機會分析 ( 可能對公司之影響 )\n因應策略及目標\n案 例\n考量產品生命週期及價值鏈，2023 年投 入 27.8 億元，從降低原料使用、製程改善、供應鏈運輸減量等三方面，進行低\n碳產品之開發。同時，導入循環經濟，將製程中產生的廢氣、廢棄物回收再利用，一方面降低生產成本，一方面促進資\n源...",
+        "page_info": "第86頁, 第56頁, 第62頁",
+        "explanation": "文本中提到了PCR (post-consumer recycled resin)，但沒有提供任何關於post-consumer plastic share的百分比數據。"
+      },
+      {
+        "keyword": "Recycled Content Claim",
+        "indicator": "指標1_再生材料使用比例",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "指標代號 揭露指標\n對照揭露\n章節對照\n2021 2022 2023\nRT-CH-150a.1\n有害廢棄物的產生總量 ( 單位：公噸 ) 2,928 3,251 2,988 3.5.2 \n廢棄物管理\n成效有害廢棄物的回收百分比 ( 單位：%) 0% 0% 0%\n揭露主題 社區關係\n  Community Relations\n指標代號 揭露指標 對照揭露 章節對照\nRT-CH-210a.1 討論管理...",
+        "page_info": "第163頁, 第3頁, 第23頁",
+        "explanation": "文本中未提及\"Recycled Content Claim\"或任何相關的百分比數據。"
+      }
+    ],
+    "指標2_碳排放數據比較": [
+      {
+        "keyword": "再生材料碳排放",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "30％",
+        "value_type": "number",
+        "confidence": 0.8,
+        "source_text": "因應策略及目標\n案 例\n ▼受歐盟新車排放標準的要求，在 2030 年前新出廠的汽車與廂型車，其二氧化碳平均排放量需較2021 年減少 1/3\n ▼本公司所生產之輕量化 PP 材料，如應用於汽車配件，可以降低車重，改善燃油效率，減少二氧化碳排放量，預估未\n來訂單將會增加\n聚丙烯部已開發輕量化 PP 環保汽車材料，用於汽車儀表板 、飾板、燈內殼與保險桿，可有效降低車體重量，節省能耗\n與減少溫室氣體排...",
+        "page_info": "第86頁, 第84頁, 第83頁",
+        "explanation": "使用PP消費後回收粒可以減少30％以上的新料使用與碳排放。"
+      },
+      {
+        "keyword": "碳足跡比較",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "406.75 噸 CO2e",
+        "value_type": "number",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n93\n台塑公司減碳執行方案\n方案 簡介 年度減量成果 未來規劃\n再生能源 -\n仁武太陽能板\n本公司於仁武廠區投資 4,387\n萬元，在福利大樓及停車場頂\n樓建置兩套太陽能發電系統，\n共裝設 1,669 片太陽能板\n太陽能發電系統以供\n自用，各廠區已設置\n456KW，2023 年發...",
+        "page_info": "第93頁, 第66頁, 第83頁",
+        "explanation": "仁武太陽能板2023年減碳量"
+      },
+      {
+        "keyword": "再生料減碳量",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "160.5 噸",
+        "value_type": "number",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n93\n台塑公司減碳執行方案\n方案 簡介 年度減量成果 未來規劃\n再生能源 -\n仁武太陽能板\n本公司於仁武廠區投資 4,387\n萬元，在福利大樓及停車場頂\n樓建置兩套太陽能發電系統，\n共裝設 1,669 片太陽能板\n太陽能發電系統以供\n自用，各廠區已設置\n456KW，2023 年發...",
+        "page_info": "第93頁, 第83頁, 第167頁",
+        "explanation": "文本提到2023年售出160.5噸含30%消費後再生(PCR)PP的PP扁紗級回收料膠粒(RP1040)，用於生產含PP再生料編織袋。這是文本中唯一明確提及再生料的數量。"
+      },
+      {
+        "keyword": "歷年GHG排放量",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "19,850,908 噸 CO2e",
+        "value_type": "number",
+        "confidence": 0.95,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n162\nII. 永續會計準則委員會 (SASB)對照表\n揭露主題 溫室氣體排放  Greenhouse Gas Emissions\n指標代號 揭露指標\n對照揭露\n章節對照\n2021 2022 2023\nRT-CH-110a.1\n範疇1 的總排放量 ( 單位：噸 CO2e) 3,918,988 3,338,613 3,542,116\n3.2.2 \n溫室...",
+        "page_info": "第162頁, 第92頁, 第91頁",
+        "explanation": "這是台塑公司2023年範疇一、二、三溫室氣體排放總量，為文本中提供的最完整且最新的數據。"
+      },
+      {
+        "keyword": "減碳數據",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "100,000 噸 CO2e/年",
+        "value_type": "number",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n93\n台塑公司減碳執行方案\n方案 簡介 年度減量成果 未來規劃\n再生能源 -\n仁武太陽能板\n本公司於仁武廠區投資 4,387\n萬元，在福利大樓及停車場頂\n樓建置兩套太陽能發電系統，\n共裝設 1,669 片太陽能板\n太陽能發電系統以供\n自用，各廠區已設置\n456KW，2023 年發...",
+        "page_info": "第93頁, 第66頁, 第66頁",
+        "explanation": "這是文本中提到的每年減少的二氧化碳排放量目標。"
+      },
+      {
+        "keyword": "碳排年表",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "19,850,908 噸 CO2e",
+        "value_type": "number",
+        "confidence": 0.95,
+        "source_text": "等六大面向深入查核、發掘作業程序未被鑑別出來的潛在風險\n 針對各類作業區域評估增設 CCTV，監視施工動態確保安全\n 強化中間幹部十大高風險巡查執行情形\n3. 推動無紙化  \n2023 年月平均用紙量 829,909 張，較 2022 年同期 1,158,645 張， 減\n少 328,736 張 ( 減少 28.4% )，減碳 31.6 噸 CO2e\n 針對各項書面表單，檢討改以無紙化方式作業\n4...",
+        "page_info": "第10頁, 第66頁, 第91頁",
+        "explanation": "2023年台塑公司溫室氣體排放總量"
+      },
+      {
+        "keyword": "GHG減量",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "98,996 噸CO2e/年",
+        "value_type": "number",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n81\n 氣候變遷風險與機會\n氣候變遷議題管理流程\n管理策略與行動方案\n執行情況\n本公司以 2020 年為基準年，訂定碳排放減量絕對目標，其中：\n ▼短期減量目標：2025 年較基準年減量 20%\n ▼中期減量目標：2030 年較基準年減量 40%\n ▼長期減量目標：2050 年達...",
+        "page_info": "第81頁, 第9頁, 第95頁",
+        "explanation": "2023年節能改善案件預估溫室氣體減量"
+      },
+      {
+        "keyword": "recycled material carbon footprint",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 1.0,
+        "source_text": "用\n，預計 2024 年取得經濟部 產業發展署個案再利用許可，每月約可\n減少 2,000 噸廢棄物，將其改為再利用，以降低對環境之衝擊\n5. 推動廢水源頭減量  持續推動廢水源頭減量共 28 案，截至 2023 年底已全數完成 ，達成\n率 100%\n6. 推動產品碳足跡盤查  截至2024 年2 月本公司共有81 項產品取得「產品碳足跡驗證聲明書」\n7. 2025 年各廠區行政生活區用電 100%...",
+        "page_info": "第8頁, 第93頁, 第58頁",
+        "explanation": "文本中未提及任何與\"recycled material carbon footprint\"相關的數值數據。"
+      },
+      {
+        "keyword": "CO2 savings over years",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "20% (2025年), 40% (2030年)",
+        "value_type": "number",
+        "confidence": 0.8,
+        "source_text": "透過內部碳定價機制，具體將碳成本納入各廠損益，\n以落實減碳目標\n ▼ 企業內部碳定價為 100 元 / 噸 CO2e\n ▼ 每月檢討各廠溫室氣體排放量及節能\n減碳目標達成績效，各廠皆達成目標\n重大主題：溫室氣體管理\n達成\n中長期目標 ( 3 年以上 )\n ▼ 有效追蹤組織溫室氣體\n排放情形，達成碳中和\n策略目標。\n ▼ 「以2020 年為基準年，\n2025 年較基準年減量\n20%、2030 年較基...",
+        "page_info": "第66頁, 第10頁, 第83頁",
+        "explanation": "文本中提到以2020年為基準年，2025年減量20%，2030年減量40%，代表相較於2020年，CO2排放量減少的百分比。"
+      },
+      {
+        "keyword": "annual GHG reduction",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 1.0,
+        "source_text": "短期目標 ( 1-3 年 ) 中長期目標 ( 3 年以上 )\n藉由分析高風險作業查核異\n常，找到工作安全管理異常熱\n點，排除風險並防範工安事故\n發生\n ▼ 不定期執行自主巡檢查核，及追蹤異常案件\n改善情形\n ▼ 針對高風險危害作業及區域，由各級主管至\n施工現場，查核員工及承攬商是否依訂定之\n標準作業程序 (SOP)、工作安全分析 (JSA)\n進行施作\n ▼ 由廠區幹部每月不定期執行自主巡檢查核， ...",
+        "page_info": "第118頁, 第161頁, 第159頁",
+        "explanation": "文本中未提及任何與年度溫室氣體減排相關的數值數據。"
+      },
+      {
+        "keyword": "CO2e savings by PCR",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 1.0,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第162頁, 第90頁",
+        "explanation": "文本中未提及任何關於\"CO2e savings by PCR\"的數值數據。"
+      },
+      {
+        "keyword": "carbon footprint of recycled materials",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "30％",
+        "value_type": "number",
+        "confidence": 0.8,
+        "source_text": "燃煤朝向低 ( 零 ) 碳能源轉型：推動鍋爐燃料由煤轉氣、汰除老舊燃煤鍋爐、採用低 ( 零 ) 碳來源之電力\n請參閱 3.2.3 能源管理 - 台塑能源轉型規劃\n客戶要求減碳 轉型風險/ 市場 重大風險5.\n現況之風險或機會分析 ( 可能對公司之影響 )\n因應策略及目標\n案 例\n近年來塑膠製品客戶受到巴黎協議及碳揭露專案(CDP) 影響，開始轉型發展低碳綠色產品 ，希望供應鏈之上游原物料業者\n也能...",
+        "page_info": "第84頁, 第58頁, 第93頁",
+        "explanation": "使用PP消費後回收粒替代新料，可減少30%以上的新料使用與碳排放。"
+      },
+      {
+        "keyword": "GHG reduction by recycled content",
+        "indicator": "指標2_碳排放數據比較",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 1.0,
+        "source_text": "高層主管問卷\n13 項\n重大主題\n議題影響評估與討論\n利用 GRI 3 重大性分析精神，衡量\n高、中度議題的財務影響及發生可能\n性；將重大主題對照GRI 主題準則，\n鑑別出 13 項重大主題\n持續溝通\n與回應\n重大主題揭露報導\n經本公司分析後，以 13 項重大主題\n作為此次報告書揭露重點，擬定議題\n管理方針。相關資訊均詳實揭露於本\n報告書中，以符合利害關係人對本公\n司的期待。未來將持續檢視各項永續...",
+        "page_info": "第23頁, 第161頁, 第27頁",
+        "explanation": "文本中未提及任何與\"GHG reduction by recycled content\"相關的數值數據。"
+      }
+    ],
+    "指標3_資源循環效益比較": [
+      {
+        "keyword": "原生料與再生料比較",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "燃煤朝向低 ( 零 ) 碳能源轉型：推動鍋爐燃料由煤轉氣、汰除老舊燃煤鍋爐、採用低 ( 零 ) 碳來源之電力\n請參閱 3.2.3 能源管理 - 台塑能源轉型規劃\n客戶要求減碳 轉型風險/ 市場 重大風險5.\n現況之風險或機會分析 ( 可能對公司之影響 )\n因應策略及目標\n案 例\n近年來塑膠製品客戶受到巴黎協議及碳揭露專案(CDP) 影響，開始轉型發展低碳綠色產品 ，希望供應鏈之上游原物料業者\n也能...",
+        "page_info": "第84頁, 第167頁, 第107頁",
+        "explanation": "文本中明確提到開發PP消費後回收粒用於塑料編織袋包裝，可以減少30％以上之新料使用與碳排放。這是最直接相關的百分比數據。"
+      },
+      {
+        "keyword": "資源節省",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "5%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n95\n台塑公司近三年電力使用情況\n單位：千兆焦耳 (GJ)\n年度 2021 2022 2023\n耗用的能源總量 26,638,682 24,496,157 24,101,059\n組織內部的能源消耗量 25,954,813 24,224,794 23,112,053\n耗用網電用電量...",
+        "page_info": "第95頁, 第98頁, 第70頁",
+        "explanation": "文本中明確提到'主要產品單位用水量，較前一年平均值減少 5%'，這是與資源節省最直接相關的百分比數據。"
+      },
+      {
+        "keyword": "資源使用效率",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "4.9%",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "用風電 2,250kW ( 5,625 千度 )\n ▼ 2023 年太陽能發電共 499 千度，已向台電申請改為自用，供廠區\n行政生活區使用\n以循環經濟\n為方向，透\n過 AI 節能\n應用，推動\n跨廠( 公司)\n能 ( 資 ) 源\n整合\n2023 年行動績效追蹤\n短期目標 ( 1-3 年 )\n各廠區導入 AI 技術輔助能 ( 資 ) 源調度並建立跨廠區資源整合系統\n ▼ 開發 AI 技術進行全廠能 ...",
+        "page_info": "第68頁, 第68頁, 第75頁",
+        "explanation": "文本中明確提到'2023 年較 2022 年用電量減少 4.9%'，這是關於能源使用效率的直接數據。"
+      },
+      {
+        "keyword": "再生材料節能與新料比較",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "30％",
+        "value_type": "percentage",
+        "confidence": 0.9,
+        "source_text": "燃煤朝向低 ( 零 ) 碳能源轉型：推動鍋爐燃料由煤轉氣、汰除老舊燃煤鍋爐、採用低 ( 零 ) 碳來源之電力\n請參閱 3.2.3 能源管理 - 台塑能源轉型規劃\n客戶要求減碳 轉型風險/ 市場 重大風險5.\n現況之風險或機會分析 ( 可能對公司之影響 )\n因應策略及目標\n案 例\n近年來塑膠製品客戶受到巴黎協議及碳揭露專案(CDP) 影響，開始轉型發展低碳綠色產品 ，希望供應鏈之上游原物料業者\n也能...",
+        "page_info": "第84頁, 第86頁, 第75頁",
+        "explanation": "文本中明確提到開發PP消費後回收粒用於塑料編織袋包裝，可以減少30％以上之新料使用與碳排放。這是最直接相關的百分比數據。"
+      },
+      {
+        "keyword": "回收資源效率",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "30%",
+        "value_type": "percentage",
+        "confidence": 0.8,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第107頁, 第167頁",
+        "explanation": "文本中提到'PP 扁紗級回收料膠粒 (RP1040) 添加 30% 消費後再生 (PCR) PP'，這直接體現了回收資源的比例。"
+      },
+      {
+        "keyword": "virgin vs recycled resource efficiency",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n61\n環保管理- 應用 AI 調度公用廠蒸汽電力最佳化\n舊有作業缺點\n1. 以往調度蒸汽及電力的方式，係由人工憑藉過去的操作經驗，調整各部機組之負載，無法達到最\n佳化操作\n2. 部分設備老舊，缺乏儀錶數據，無法即時依據各部汽機發電效率及負載程度進行調度\n上線後效益\n ▼實際節省耗...",
+        "page_info": "第61頁, 第168頁, 第86頁",
+        "explanation": "文本中沒有關於virgin vs recycled resource efficiency的百分比數據。"
+      },
+      {
+        "keyword": "material savings",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "化原物料，就會產生多餘廢棄物\n自身廢棄物若增量或品質異常，導\n致處理或再利用業者無法處理或再\n利用，嚴重時可能需減 ( 停 ) 產，\n以減少 ( 或停止 ) 廢棄物產出\n製程操作異常時，將會出現品質異\n常，使製程產出的廢棄物增加\n若廢棄物處理業者因違反法令或任\n何原因，無法收受廢棄物，導致本\n公司廢棄物需暫存或堆置廠內，需\n緊急洽詢其他合格廠商協助，若無\n法及時處理，嚴重時恐需減 ( 停 )\n產，...",
+        "page_info": "第107頁, 第109頁, 第163頁",
+        "explanation": "文本中沒有提及與\"material savings\"相關的百分比數據。"
+      },
+      {
+        "keyword": "resource efficiency",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "上游 營運 下游\n研發與改善 原物料採購 製造生產 產品銷售 售後服務與諮詢\n▲ ●\n價值鏈對照\n( 註 2 )\nGRI 主題準則對照\n303 水資源管理\n揭露章節\n3.3 水資源管理\n影響說明\n本公司部份生產製程對水資源的需求與影響較大，同時會對公司造成經濟和環境風險。公司應揭露相關淨淡水消耗\n量，並採取相關因應措施，以提升水資源效率，如使用替代水資源和回收 / 循環水資源，以減少廢水排放和法規...",
+        "page_info": "第29頁, 第28頁, 第27頁",
+        "explanation": "文本中提到提升水資源效率和減少材料消耗，但沒有提供任何百分比數據。"
+      },
+      {
+        "keyword": "virgin vs recycled materials",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n56\n消費後回收塑膠 (PCR) 開\n發與應用\n鹽水電解結合二氧化碳再\n利用系統技術開發\n抗沾黏腹膜透析矽膠導管\n1. 秉持永續承諾與循環經濟理念，積極開發消費後回收 PP 塑 膠（PCR）永嘉烯\nRP3015 等牌號，主要用於生產日用品、棧板與汽車用料等\n2. 目前以 PCR RP3015 製成的棧板，在物性上與純料製成之棧板相當，廠商已逐\n步增加...",
+        "page_info": "第56頁, 第55頁, 第86頁",
+        "explanation": "文本中提到了PCR（消費後回收塑膠）的應用，但沒有提供virgin vs recycled materials的百分比數據。"
+      },
+      {
+        "keyword": "environmental savings comparison",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n73\n利害關係\n人議合\n員工\n專家學者\n政府機構\n營運地區\n居民\n ▼ 每月工安環保會議及安全衛生環境通報，向各廠說明政府與公司環保政策及分享\n各廠改善案例，以供平行展開\n ▼ 總經理室安衛處及各事業部經理室不定期入廠內部稽核，宣導各項空污政策及討\n論改善成效\n ▼ 邀請外部學者...",
+        "page_info": "第73頁, 第5頁, 第29頁",
+        "explanation": "文本中沒有任何與\"environmental savings comparison\"相關的百分比數據。"
+      },
+      {
+        "keyword": "recycled vs virgin environmental impact",
+        "indicator": "指標3_資源循環效益比較",
+        "value": "未提及",
+        "value_type": "percentage",
+        "confidence": 1.0,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n29\n空氣污染物管理\n財務衝擊 ( 註 1 )\n中低\n上游 營運 下游\n研發與改善 原物料採購 製造生產 產品銷售 售後服務與諮詢\n●\n價值鏈對照\n( 註 2 )\nGRI 主題準則對照\n305 排放\n揭露章節\n3.4 空氣污染物管理\n影響說明\n本公司因燃料使用和原料加工，產生二氧...",
+        "page_info": "第29頁, 第72頁, 第160頁",
+        "explanation": "文本中沒有關於recycled vs virgin environmental impact的百分比數據。"
+      }
+    ],
+    "指標4_產品延長壽命": [
+      {
+        "keyword": "產品壽命",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n63\n 客戶意見反應及處理\n為及時解決客戶疑問與需求，本公司於官網設置留言系統，客戶可依官網上所提供之銷售服務專線或電子郵\n件信箱等多元管道直接反應，若涉及退換貨及賠償申請程序，可透過營業員以「客訴處理表」立案，辦理退\n換貨、折讓或賠償。2023 年共接獲 16 件客訴，多為品質...",
+        "page_info": "第63頁, 第169頁, 第164頁",
+        "explanation": "文本提到公司持續投入新產品與技術開發，並開發39項新產品，其中12項已商業化，這暗示產品壽命可能有所提升，因為新產品的推出代表著產品線的更新和延長。"
+      },
+      {
+        "keyword": "延長使用年限",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "用\n，預計 2024 年取得經濟部 產業發展署個案再利用許可，每月約可\n減少 2,000 噸廢棄物，將其改為再利用，以降低對環境之衝擊\n5. 推動廢水源頭減量  持續推動廢水源頭減量共 28 案，截至 2023 年底已全數完成 ，達成\n率 100%\n6. 推動產品碳足跡盤查  截至2024 年2 月本公司共有81 項產品取得「產品碳足跡驗證聲明書」\n7. 2025 年各廠區行政生活區用電 100%...",
+        "page_info": "第8頁, 第144頁, 第36頁",
+        "explanation": "文本中提到供應商評鑑包含'品質、耐用年限及售後服務等狀況'，並根據這些狀況區分廠商等級，暗示著提升產品耐用年限的努力。"
+      },
+      {
+        "keyword": "可維修設計",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 1.0,
+        "source_text": "事故率 (TRIR) 與致 死率\n(Fatality Rate) (單位： %)\n工傷事故率 0 0 0\n致死率 0 0 0\nRT-CH-320a.2 說明評估、監測和減少員工與約聘人員\n暴露於長時間健康風險的作為\n ■ 訂定違反 SOP 之相關罰則，督促同仁遵守各\n項作業之操作安全\n ■ 推動非例行性之安全管理，針對非製程操作、\n週期不固定且間隔超過 6 個月之作業，由主\n管事先帶領現場操作人員...",
+        "page_info": "第164頁, 第85頁, 第63頁",
+        "explanation": "文本中未提及\"可維修設計\"或任何相關概念。"
+      },
+      {
+        "keyword": "模組化設計",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "生物處理模組，分解乳化粉製程廢水中較難\n分解的物質，達到廢水再利用的目的\n2. 目前此技術已在麥寮塑膠廠進行實廠應用 ，\n處理後的廢水已達回收供冷卻水塔再使用之\n標準( 例如：COD < 30 ppm、PVA < 1 ppm)，\n同時獲得國家新創獎 - 新創精進獎、國科會\n化材組 - 民生化工領域優良獎等獎項的肯定\n1. 與全球嬰兒褲市場占有率第一的知名國際大廠攜手合作，共同研發新一代SAP\n產\n...",
+        "page_info": "第56頁, 第13頁, 第46頁",
+        "explanation": "文本提到'產能放大設計'，暗示模組化設計可能提升了產能。"
+      },
+      {
+        "keyword": "耐用性提升",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n55\n高壓阻燃 EVA 電纜料開發\n高流動性 PE 纖維料開發\n新型活性碳循環 / 再生系統開發\n電動車產業崛起帶動高壓電線市場的需求，而電動車高壓電線除須承\n受高壓的環境外，同時亦需具備耐磨損、絕緣、耐燃等性質。目前以\nEVA 添加阻燃劑達到阻燃效果，加上其具有耐彎折特性 ，非...",
+        "page_info": "第55頁, 第144頁, 第84頁",
+        "explanation": "文本中提到通過調整EVA電纜料的熔融指數(MI值)以提高抗拉強度，這可以被理解為耐用性提升。"
+      },
+      {
+        "keyword": "維修服務年限",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 0.95,
+        "source_text": "員工參與比例 19.2% 80.8%\n請領條件\n一、申請退休：\n ■ 工作十五年以上年滿五十五歲者\n ■ 工作二十五年以上者\n ■ 工作十年以上年滿六十歲者\n二、命令退休：\n ■ 年滿六十五歲者\n ■ 身心障礙不堪勝任工作者\n無論年資為何，規定請領年齡為 60 歲。勞\n工年滿 60 歲，工作年資未滿 15 年 ，應請領\n一次退休金，其工作年資滿 15 年以上 ，得\n選擇請領月退休金或一次退休金\n2...",
+        "page_info": "第132頁, 第144頁, 第141頁",
+        "explanation": "文本中提到了供應商的「品質、耐用年限及售後服務」，但沒有關於維修服務年限的具體信息，也沒有提及改善或下降。"
+      },
+      {
+        "keyword": "延長保固",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 1.0,
+        "source_text": "台灣塑膠工業股份有限公司\n2023 永續報告書\n136\n 安全衛生績效指標\n為監督與評估本公司安全衛生工作之績效表\n現，各單位每半年應提交 7 項安全衛生管理績\n效指標的執行情形報告，以評估全公司整體安\n全氣候，診斷安全衛生管理的薄弱環節，並對\n這些問題採取相應的改進措施。\n提升廠區安全作為\n篩選前十大高風險作業\n設置管架段巡檢走道\n製程危害分析 (PHA)\n協議組織會議\n ▼為強化承攬商施工安全...",
+        "page_info": "第136頁, 第172頁, 第3頁",
+        "explanation": "文本中未提及\"延長保固\"相關信息。"
+      },
+      {
+        "keyword": "product lifespan",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 1.0,
+        "source_text": "事故率 (TRIR) 與致 死率\n(Fatality Rate) (單位： %)\n工傷事故率 0 0 0\n致死率 0 0 0\nRT-CH-320a.2 說明評估、監測和減少員工與約聘人員\n暴露於長時間健康風險的作為\n ■ 訂定違反 SOP 之相關罰則，督促同仁遵守各\n項作業之操作安全\n ■ 推動非例行性之安全管理，針對非製程操作、\n週期不固定且間隔超過 6 個月之作業，由主\n管事先帶領現場操作人員...",
+        "page_info": "第164頁, 第93頁, 第87頁",
+        "explanation": "文本中未提及產品生命週期（product lifespan）相關信息，也沒有任何暗示產品生命週期有改善或變化的信息。"
+      },
+      {
+        "keyword": "durability",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "活力，多進用 30 歲以下之年齡層員工 ( 約占新進人員 85.9%)，以活化組織\n新血，穩固企業經營基礎，有利於公司長遠發展，並做為永續發展之後盾\n本公司新進人員共計 135\n人，其中 30 歲以下有 116\n人，占 85.9%\n身心\n障礙\n本公司僱用身心障礙者總人數不僅優於法規，且對身心障礙者之待遇標準\n均比照同職等之新進員工，以保障其權益\n本公司依法需進用身心障\n礙者為 61 人，實際進用\n...",
+        "page_info": "第122頁, 第87頁, 第62頁",
+        "explanation": "文本中提到為強化供應鏈韌性，檢討可替代原物料種類，並計畫使用生質乙烯生產500噸生質PE和5920噸生質EVA，這表示在供應鏈韌性（與durability相關）方面有所提升。"
+      },
+      {
+        "keyword": "modular design",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 1.0,
+        "source_text": "非夏月停用一部燃煤機組\n仁武導入 AI 智慧電廠平台\nJP-4/5 高壓給水加熱器投入運轉\n林園導入 AI 智慧電廠平台\n仁武增設第一部低壓燃氣鍋爐\n林園增設第一部低壓燃氣鍋爐\nLP-2 燃煤鍋爐煤氣混燒\nJP-1 鍋爐煤氣混燃\n跨越技術門檻\n提供內建 AI 工具箱，\n供使用者不需撰寫任\n何程式碼，即可開發\nAI 流程\n促進知識共享\n與重複利用\n支援跨使用者的 AI 流\n程分享，實現 AI 知識\n...",
+        "page_info": "第13頁, 第59頁, 第87頁",
+        "explanation": "文本中未提及\"modular design\"或任何相關概念。"
+      },
+      {
+        "keyword": "repairability",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.8,
+        "source_text": "( 註 1 )\n0.08 0 0 0 0 0\n失能傷害嚴重率\n( 註 2 )\n496 3 4 1 1 15\n失能傷害頻率\n( 註3 )\n0.33 0.25 0.18 0.35 0.17 0.09\n可記錄之職業傷害比率\n( 註 4 )\n0.33 0.25 0.18 0.35 0.17 0.09\n註 1： 職業傷害所造成的死亡比率，為每一百萬工時中發生死亡的人數，其公式為：職業傷害所造成的死亡人數 ╳...",
+        "page_info": "第141頁, 第145頁, 第25頁",
+        "explanation": "文本提到2023年承攬商發生灼傷職災，導致失能傷害嚴重率大幅上升，說明在可修復性方面有所下降，因此其反面，即提升可修復性，可以被推斷為否定的。"
+      },
+      {
+        "keyword": "upgradeable",
+        "indicator": "指標4_產品延長壽命",
+        "value": "是",
+        "value_type": "boolean_or_number",
+        "confidence": 0.9,
+        "source_text": "創新永續未來的\n塑造者1\n繁榮經濟的\n促進者2\n永續環境的\n打造者3\n幸福職場的\n守護者4\n共享發展的\n創造者5\n附錄\n27\n誠信經營\n財務衝擊 ( 註 1 )\n-\n上游 營運 下游\n研發與改善 原物料採購 製造生產 產品銷售 售後服務與諮詢\n● ✓\n價值鏈對照\n( 註 2 )\nGRI 主題準則對照\n205 反貪腐\n206 反競爭\n揭露章節\n第二章 繁榮經濟的促進者\n2.2.4 內控機制\n影響說明...",
+        "page_info": "第27頁, 第85頁, 第144頁",
+        "explanation": "文本中多次提到“研發與改善”、“產品研發創新”，並說明透過研發創新提升競爭力，降低成本和提高效率，進而增進營運效益。這些都暗示產品或流程有所提升。"
+      },
+      {
+        "keyword": "extension service life",
+        "indicator": "指標4_產品延長壽命",
+        "value": "未提及",
+        "value_type": "boolean_or_number",
+        "confidence": 1.0,
+        "source_text": "數位\n轉型\n數位\n轉型組\n永續推動工作落實於各項業務時，透過各機能組召開相關會議討論與決策過程，將永續意識納入經營策略與\n作業思維，並於永續發展委員會報告各項工作執行情形與進度，具體實踐政策承諾，並配合不同的作業階段，\n向各職級同仁宣達與溝通公司永續政策，以商業行為與內化思維，達到永續發展目標。\n永續發展網站：永續發展工作推動\n\n目錄\n1.1 董事長的話\n1.2 關於台塑\n1.3 利害關係人之鑑別...",
+        "page_info": "第46頁, 第1頁, 第31頁",
+        "explanation": "文本中未提及\"extension service life\"或任何相關概念。"
+      }
+    ],
+    "指標5_單位經濟效益": [
+      {
+        "keyword": "每公斤成本",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 1.0,
+        "source_text": "透過內部碳定價機制，具體將碳成本納入各廠損益，\n以落實減碳目標\n ▼ 企業內部碳定價為 100 元 / 噸 CO2e\n ▼ 每月檢討各廠溫室氣體排放量及節能\n減碳目標達成績效，各廠皆達成目標\n重大主題：溫室氣體管理\n達成\n中長期目標 ( 3 年以上 )\n ▼ 有效追蹤組織溫室氣體\n排放情形，達成碳中和\n策略目標。\n ▼ 「以2020 年為基準年，\n2025 年較基準年減量\n20%、2030 年較基...",
+        "page_info": "第66頁, 第95頁, 第167頁",
+        "explanation": "文本中沒有提供任何與\"每公斤成本\"相關的數據。"
+      },
+      {
+        "keyword": "每單位碳排放",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第92頁, 第162頁, 第66頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 52\n}\n]"
+      },
+      {
+        "keyword": "每單位效益",
+        "indicator": "指標5_單位經濟效益",
+        "value": "493,480千元",
+        "value_type": "number",
+        "confidence": 0.8,
+        "source_text": "事故率 (TRIR) 與致 死率\n(Fatality Rate) (單位： %)\n工傷事故率 0 0 0\n致死率 0 0 0\nRT-CH-320a.2 說明評估、監測和減少員工與約聘人員\n暴露於長時間健康風險的作為\n ■ 訂定違反 SOP 之相關罰則，督促同仁遵守各\n項作業之操作安全\n ■ 推動非例行性之安全管理，針對非製程操作、\n週期不固定且間隔超過 6 個月之作業，由主\n管事先帶領現場操作人員...",
+        "page_info": "第164頁, 第167頁, 第44頁",
+        "explanation": "文本中提到開發39項新產品，潛在年效益為493,480千元。這可以被理解為每單位效益的潛在值，雖然沒有明確指出單位產品，但這是文本中與'每單位效益'最相關的數值。"
+      },
+      {
+        "keyword": "再生塑膠性價比",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第144頁, 第169頁, 第86頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 42\n}\n]"
+      },
+      {
+        "keyword": "循環效益與成本比",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第86頁, 第77頁, 第66頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 36\n}\n]"
+      },
+      {
+        "keyword": "unit economic benefit",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第44頁, 第33頁, 第27頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 30\n}\n]"
+      },
+      {
+        "keyword": "cost per kg",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第167頁, 第77頁, 第125頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]"
+      },
+      {
+        "keyword": "CO2 per unit",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第66頁, 第162頁, 第171頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]"
+      },
+      {
+        "keyword": "ROI of recycling",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第101頁, 第29頁, 第163頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 13\n}\n]"
+      },
+      {
+        "keyword": "lifecycle cost benefit",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第55頁, 第77頁, 第61頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 7\n}\n]"
+      },
+      {
+        "keyword": "economic efficiency of recycling",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第86頁, 第109頁, 第167頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 2\n}\n]"
+      },
+      {
+        "keyword": "lifecycle unit cost",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第55頁, 第66頁, 第77頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]"
+      },
+      {
+        "keyword": "unit GHG",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第162頁, 第161頁, 第118頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+      },
+      {
+        "keyword": "recycled vs virgin unit value",
+        "indicator": "指標5_單位經濟效益",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第163頁, 第168頁, 第86頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 44\n}\n]"
+      }
+    ],
+    "指標6_循環再製次數": [
+      {
+        "keyword": "循環次數",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第70頁, 第163頁, 第8頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 39\n}\n]"
+      },
+      {
+        "keyword": "再利用次數",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第8頁, 第75頁, 第107頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 33\n}\n]"
+      },
+      {
+        "keyword": "再生次數",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第127頁, 第169頁, 第8頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]"
+      },
+      {
+        "keyword": "可再製次數",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第107頁, 第8頁, 第167頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]"
+      },
+      {
+        "keyword": "再加工循環",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第86頁, 第101頁, 第107頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]"
+      },
+      {
+        "keyword": "材料耐久",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第144頁, 第55頁, 第169頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 9\n}\n]"
+      },
+      {
+        "keyword": "回收次數",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第107頁, 第169頁, 第108頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 3\n}\n]"
+      },
+      {
+        "keyword": "recycling cycles",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第55頁, 第8頁, 第163頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 58\n}\n]"
+      },
+      {
+        "keyword": "number of reuse times",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第120頁, 第169頁, 第163頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 52\n}\n]"
+      },
+      {
+        "keyword": "remanufacturing times",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第36頁, 第2頁, 第23頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 48\n}\n]"
+      },
+      {
+        "keyword": "recycled loops",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第75頁, 第107頁, 第168頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 42\n}\n]"
+      },
+      {
+        "keyword": "recycled material durability",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第109頁, 第107頁, 第55頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 37\n}\n]"
+      },
+      {
+        "keyword": "durability of recycled material",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第107頁, 第109頁, 第55頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 31\n}\n]"
+      },
+      {
+        "keyword": "material degradation",
+        "indicator": "指標6_循環再製次數",
+        "value": "未提及",
+        "value_type": "number",
+        "confidence": 0.5,
+        "source_text": "LLM提取過程中出現錯誤",
+        "page_info": "第107頁, 第144頁, 第87頁",
+        "explanation": "提取過程中出現錯誤: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]"
+      }
+    ]
+  },
+  "summary": {
+    "total_keywords": 78,
+    "found_keywords": 31,
+    "not_found_keywords": 47,
+    "high_confidence_results": 31,
+    "indicators_summary": {
+      "指標1_再生材料使用比例": {
+        "total": 13,
+        "found": 9,
+        "not_found": 4,
+        "high_confidence": 9,
+        "key_findings": [
+          {
+            "keyword": "再生材料使用比例",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "再生塑膠佔比",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "rPET含量",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "PCR材料使用",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "導入再生料",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "PCR plastic usage",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "% recycled materials",
+            "value": "89.1%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "recycled plastic usage rate",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "PCR material use",
+            "value": "30%",
+            "confidence": 0.9
+          }
+        ]
+      },
+      "指標2_碳排放數據比較": {
+        "total": 13,
+        "found": 9,
+        "not_found": 4,
+        "high_confidence": 9,
+        "key_findings": [
+          {
+            "keyword": "再生材料碳排放",
+            "value": "30％",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "碳足跡比較",
+            "value": "406.75 噸 CO2e",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "再生料減碳量",
+            "value": "160.5 噸",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "歷年GHG排放量",
+            "value": "19,850,908 噸 CO2e",
+            "confidence": 0.95
+          },
+          {
+            "keyword": "減碳數據",
+            "value": "100,000 噸 CO2e/年",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "碳排年表",
+            "value": "19,850,908 噸 CO2e",
+            "confidence": 0.95
+          },
+          {
+            "keyword": "GHG減量",
+            "value": "98,996 噸CO2e/年",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "CO2 savings over years",
+            "value": "20% (2025年), 40% (2030年)",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "carbon footprint of recycled materials",
+            "value": "30％",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "指標3_資源循環效益比較": {
+        "total": 11,
+        "found": 5,
+        "not_found": 6,
+        "high_confidence": 5,
+        "key_findings": [
+          {
+            "keyword": "原生料與再生料比較",
+            "value": "30%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "資源節省",
+            "value": "5%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "資源使用效率",
+            "value": "4.9%",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "再生材料節能與新料比較",
+            "value": "30％",
+            "confidence": 0.9
+          },
+          {
+            "keyword": "回收資源效率",
+            "value": "30%",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "指標4_產品延長壽命": {
+        "total": 13,
+        "found": 7,
+        "not_found": 6,
+        "high_confidence": 7,
+        "key_findings": [
+          {
+            "keyword": "產品壽命",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "延長使用年限",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "模組化設計",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "耐用性提升",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "durability",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "repairability",
+            "value": "是",
+            "confidence": 0.8
+          },
+          {
+            "keyword": "upgradeable",
+            "value": "是",
+            "confidence": 0.9
+          }
+        ]
+      },
+      "指標5_單位經濟效益": {
+        "total": 14,
+        "found": 1,
+        "not_found": 13,
+        "high_confidence": 1,
+        "key_findings": [
+          {
+            "keyword": "每單位效益",
+            "value": "493,480千元",
+            "confidence": 0.8
+          }
+        ]
+      },
+      "指標6_循環再製次數": {
+        "total": 14,
+        "found": 0,
+        "not_found": 14,
+        "high_confidence": 0,
+        "key_findings": []
+      }
+    }
+  },
+  "metadata": {
+    "total_indicators": 6,
+    "extraction_method": "RAG + BGE Reranker + Gemini",
+    "vector_db_path": "./vector_db/esg_db",
+    "model_used": "models/gemini-1.5-flash",
+    "extraction_timestamp": "2025-06-24T01:10:33.555685"
+  }
+}
