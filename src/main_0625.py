@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ESG RAG系統主運行腳本 - 多API Key版本
-支持API key輪換和智能等待機制
+ESG RAG系統主運行腳本 - Excel多工作表版本
+生成包含完整結果、相似關鍵字、指標統計的Excel報告
 """
 
 import os
@@ -18,9 +18,7 @@ def check_dependencies():
     required_packages = {
         'pandas': 'pandas',
         'openpyxl': 'openpyxl',
-        'sklearn': 'scikit-learn',
-        'google.generativeai': 'google-generativeai',
-        'google.api_core': 'google-api-core'
+        'sklearn': 'scikit-learn'
     }
     
     missing_packages = []
@@ -41,34 +39,6 @@ def check_dependencies():
     
     return True
 
-def check_api_keys():
-    """檢查API keys配置"""
-    try:
-        from api_manager import GEMINI_API_KEYS
-        
-        if not GEMINI_API_KEYS or len(GEMINI_API_KEYS) == 0:
-            print("❌ 錯誤: 沒有配置Gemini API keys")
-            return False
-        
-        # 檢查API key格式
-        valid_keys = []
-        for i, key in enumerate(GEMINI_API_KEYS):
-            if key and len(key) > 20 and key.startswith('AIza'):
-                valid_keys.append(key)
-            else:
-                print(f"⚠️  警告: API key {i+1} 格式可能不正確")
-        
-        if len(valid_keys) == 0:
-            print("❌ 錯誤: 沒有有效的API keys")
-            return False
-        
-        print(f"✅ 找到 {len(valid_keys)} 個有效的API keys")
-        return True
-        
-    except ImportError:
-        print("❌ 錯誤: 無法導入API管理器")
-        return False
-
 def check_environment():
     """檢查環境和依賴"""
     print("🔍 檢查系統環境...")
@@ -77,12 +47,14 @@ def check_environment():
     if not check_dependencies():
         return False
     
-    # 檢查API keys
-    if not check_api_keys():
-        return False
-    
     try:
-        from config import VECTOR_DB_PATH, DATA_PATH, RESULTS_PATH
+        from config import GOOGLE_API_KEY, GEMINI_MODEL, VECTOR_DB_PATH, DATA_PATH, RESULTS_PATH
+        
+        # 檢查API Key
+        if not GOOGLE_API_KEY:
+            print("❌ 錯誤: GOOGLE_API_KEY 未設置")
+            print("請在 src/.env 文件中設置您的 Google API Key")
+            return False
         
         # 檢查向量資料庫
         if not os.path.exists(VECTOR_DB_PATH):
@@ -101,43 +73,17 @@ def check_environment():
         print("請確保已安裝所有必要的依賴包")
         return False
 
-def test_api_keys():
-    """測試API keys是否可用"""
-    print("🧪 測試API keys...")
-    
-    try:
-        from api_manager import GeminiAPIManager, GEMINI_API_KEYS
-        
-        # 創建API管理器
-        api_manager = GeminiAPIManager(GEMINI_API_KEYS)
-        
-        # 測試一個簡單的請求
-        test_prompt = "請用中文回答：你好，這是一個測試請求。"
-        
-        try:
-            response = api_manager.invoke(test_prompt)
-            print("✅ API測試成功")
-            print(f"📝 測試響應: {response.content[:50]}...")
-            return True
-        except Exception as e:
-            print(f"❌ API測試失敗: {e}")
-            return False
-            
-    except Exception as e:
-        print(f"❌ API測試初始化失敗: {e}")
-        return False
-
-def run_multi_key_extraction():
-    """運行多API key ESG數據提取"""
-    print("🚀 開始ESG數據提取 - 多API Key版本")
+def run_excel_extraction():
+    """運行ESG數據提取並生成Excel報告"""
+    print("🚀 開始ESG數據提取 - Excel多工作表版本")
     print("=" * 60)
     
     try:
-        from esg_extractor import MultiKeyESGDataExtractor
+        from esg_extractor import ESGDataExtractor
         
         # 初始化提取器
-        print("📱 初始化多API key ESG數據提取器...")
-        extractor = MultiKeyESGDataExtractor()
+        print("📱 初始化ESG數據提取器...")
+        extractor = ESGDataExtractor()
         
         # 提取所有關鍵字數據
         print("🔍 開始提取數據...")
@@ -165,7 +111,6 @@ def run_multi_key_extraction():
         print(f"   • 工作表2: 相似關鍵字結果 ({len(similar_groups)}組相似關鍵字)")
         print(f"   • 工作表3: 各指標統計 (6個指標的詳細統計)")
         print(f"   • 工作表4: 摘要統計 (整體統計信息)")
-        print(f"   • 工作表5: API使用統計 (多key使用情況)")
         print(f"⏰ 完成時間: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         
         return excel_path, summary, similar_groups
@@ -175,8 +120,8 @@ def run_multi_key_extraction():
         print("請檢查錯誤信息並重試")
         return None, None, None
 
-def analyze_multi_key_results(excel_path):
-    """分析多API key Excel結果"""
+def analyze_excel_results(excel_path):
+    """分析Excel結果"""
     try:
         import pandas as pd
         
@@ -197,22 +142,16 @@ def analyze_multi_key_results(excel_path):
                 total_count = len(df)
                 print(f"   成功提取: {success_count}/{total_count} ({success_count/total_count*100:.1f}%)")
                 
-                # 分析API key使用分佈
-                if '使用的API Key' in df.columns:
-                    api_usage = df['使用的API Key'].value_counts()
-                    print("   API Key使用分佈:")
-                    for api_key, count in api_usage.head(3).items():
-                        print(f"     • {api_key}: {count} 次")
-            
-            elif sheet_name == "API使用統計":
-                if not df.empty and '使用次數' in df.columns:
-                    total_requests = df['使用次數'].sum()
-                    max_usage = df['使用次數'].max()
-                    min_usage = df['使用次數'].min()
-                    print(f"   總請求: {total_requests}")
-                    print(f"   最高使用: {max_usage} 次")
-                    print(f"   最低使用: {min_usage} 次")
-                    print(f"   負載均衡度: {min_usage/max_usage*100:.1f}%" if max_usage > 0 else "   負載均衡度: N/A")
+                # 分析各指標
+                indicator_stats = df.groupby('指標類別').agg({
+                    '關鍵字': 'count',
+                    '提取值': lambda x: (x != '未提及').sum()
+                }).rename(columns={'關鍵字': '總數', '提取值': '成功數'})
+                
+                print("   各指標成功率:")
+                for indicator, stats in indicator_stats.iterrows():
+                    rate = stats['成功數'] / stats['總數'] * 100
+                    print(f"     • {indicator}: {stats['成功數']}/{stats['總數']} ({rate:.1f}%)")
             
             elif sheet_name == "相似關鍵字結果":
                 if not df.empty and '組別' in df.columns:
@@ -242,88 +181,56 @@ def show_latest_results():
         import glob
         
         # 找到最新的Excel文件
-        excel_files = glob.glob(os.path.join(RESULTS_PATH, "esg_multikey_report_*.xlsx"))
+        excel_files = glob.glob(os.path.join(RESULTS_PATH, "esg_comprehensive_report_*.xlsx"))
         if excel_files:
             latest_excel = max(excel_files, key=os.path.getctime)
             print(f"\n📄 最新Excel報告: {latest_excel}")
-            analyze_multi_key_results(latest_excel)
+            analyze_excel_results(latest_excel)
         else:
             print("❌ 未找到Excel報告文件，請先運行數據提取")
             
     except Exception as e:
         print(f"❌ 查看結果失敗: {e}")
 
-def show_api_key_config():
-    """顯示API key配置信息"""
-    try:
-        from api_manager import GEMINI_API_KEYS
-        
-        print("\n🔑 API Key配置信息:")
-        print("=" * 40)
-        print(f"配置的API Key數量: {len(GEMINI_API_KEYS)}")
-        
-        for i, key in enumerate(GEMINI_API_KEYS, 1):
-            print(f"Key {i}: {key[:10]}...{key[-4:]}")
-        
-        print("\n💡 多API Key機制說明:")
-        print("• 系統會自動輪換使用不同的API key")
-        print("• 當某個key達到限制時，自動切換到下一個")
-        print("• 如果所有key都達到限制，系統會等待10分鐘")
-        print("• 每個請求之間有1秒的間隔以避免過於頻繁")
-        
-    except Exception as e:
-        print(f"❌ 無法讀取API key配置: {e}")
-
 def interactive_menu():
     """互動式選單"""
     while True:
         print("\n" + "="*60)
-        print("🏢 ESG數據提取系統 - 多API Key版本")
+        print("🏢 ESG數據提取系統 - Excel多工作表版本")
         print("="*60)
-        print("1. 運行完整數據提取 (多API key)")
+        print("1. 運行完整數據提取 (生成Excel報告)")
         print("2. 檢查系統環境")
-        print("3. 測試API keys")
-        print("4. 查看最新Excel報告")
-        print("5. 查看API key配置")
-        print("6. 安裝依賴說明")
-        print("7. 退出")
+        print("3. 查看最新Excel報告")
+        print("4. 安裝依賴說明")
+        print("5. 退出")
         
-        choice = input("\n請選擇功能 (1-7): ").strip()
+        choice = input("\n請選擇功能 (1-5): ").strip()
         
         if choice == "1":
             if check_environment():
-                excel_path, summary, similar_groups = run_multi_key_extraction()
+                excel_path, summary, similar_groups = run_excel_extraction()
                 if excel_path:
-                    analyze_multi_key_results(excel_path)
+                    analyze_excel_results(excel_path)
         
         elif choice == "2":
             check_environment()
         
         elif choice == "3":
-            if check_dependencies():
-                test_api_keys()
-        
-        elif choice == "4":
             show_latest_results()
         
-        elif choice == "5":
-            show_api_key_config()
-        
-        elif choice == "6":
+        elif choice == "4":
             print("\n📦 安裝依賴說明:")
             print("=" * 40)
-            print("本系統需要以下Python包:")
+            print("本系統需要以下額外的Python包:")
             print("• pandas - 數據處理")
             print("• openpyxl - Excel文件操作")
             print("• scikit-learn - 相似度計算")
-            print("• google-generativeai - Gemini API")
-            print("• google-api-core - Google API核心庫")
             print("\n安裝命令:")
-            print("pip install pandas openpyxl scikit-learn google-generativeai google-api-core")
+            print("pip install pandas openpyxl scikit-learn")
             print("\n或者安裝所有依賴:")
             print("pip install -r requirements.txt")
         
-        elif choice == "7":
+        elif choice == "5":
             print("👋 感謝使用ESG數據提取系統！")
             break
         
@@ -332,8 +239,8 @@ def interactive_menu():
 
 def main():
     """主函數"""
-    print("🏢 ESG數據提取系統 - 多API Key版本 v4.0")
-    print("支持API key輪換和智能等待機制")
+    print("🏢 ESG數據提取系統 - Excel多工作表版本 v3.0")
+    print("生成包含相似關鍵字和指標統計的Excel報告")
     print("=" * 60)
     
     # 檢查命令行參數
@@ -341,27 +248,22 @@ def main():
         if sys.argv[1] == "--auto":
             # 自動運行模式
             if check_environment():
-                excel_path, summary, similar_groups = run_multi_key_extraction()
+                excel_path, summary, similar_groups = run_excel_extraction()
                 if excel_path:
-                    analyze_multi_key_results(excel_path)
+                    analyze_excel_results(excel_path)
         elif sys.argv[1] == "--check":
             # 僅檢查環境
             check_environment()
-        elif sys.argv[1] == "--test":
-            # 測試API keys
-            if check_dependencies():
-                test_api_keys()
         elif sys.argv[1] == "--install":
             # 顯示安裝說明
             print("📦 請安裝以下依賴包:")
-            print("pip install pandas openpyxl scikit-learn google-generativeai google-api-core")
+            print("pip install pandas openpyxl scikit-learn")
         else:
             print("用法:")
-            print("  python multi_key_main.py           # 互動模式")
-            print("  python multi_key_main.py --auto    # 自動運行")
-            print("  python multi_key_main.py --check   # 檢查環境")
-            print("  python multi_key_main.py --test    # 測試API keys")
-            print("  python multi_key_main.py --install # 安裝說明")
+            print("  python excel_main.py           # 互動模式")
+            print("  python excel_main.py --auto    # 自動運行")
+            print("  python excel_main.py --check   # 檢查環境")
+            print("  python excel_main.py --install # 安裝說明")
     else:
         # 互動模式
         interactive_menu()

@@ -8,9 +8,12 @@ faiss-cpu>=1.8.0
 torch>=2.1.0
 numpy>=1.24.0
 pypdf>=4.0.0
-google-generativeai>=0.3.0
 python-dotenv>=1.0.0
 tqdm>=4.66.0
+
+# Google API相關
+google-generativeai>=0.3.0
+google-api-core>=2.11.0
 
 # Excel和數據處理依賴
 pandas>=2.2.0

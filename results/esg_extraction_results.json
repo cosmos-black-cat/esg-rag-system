@@ -4,118 +4,118 @@
       {
         "keyword": "再生材料使用比例",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
         "page_info": "第167頁, 第109頁, 第108頁"
       },
       {
         "keyword": "再生塑膠佔比",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.7,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 9\n}\n]",
         "page_info": "第169頁, 第167頁, 第108頁"
       },
       {
         "keyword": "rPET含量",
         "indicator": "指標1_再生材料使用比例",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 4\n}\n]",
         "page_info": "第166頁, 第167頁, 第166頁"
       },
       {
         "keyword": "PCR材料使用",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 59\n}\n]",
         "page_info": "第56頁, 第167頁, 第55頁"
       },
       {
         "keyword": "導入再生料",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 53\n}\n]",
         "page_info": "第86頁, 第167頁, 第107頁"
       },
       {
         "keyword": "recycled content ratio%",
         "indicator": "指標1_再生材料使用比例",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 48\n}\n]",
         "page_info": "第168頁, 第169頁, 第8頁"
       },
       {
         "keyword": "PCR plastic usage",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 43\n}\n]",
         "page_info": "第56頁, 第167頁, 第3頁"
       },
       {
         "keyword": "rPET content",
         "indicator": "指標1_再生材料使用比例",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 37\n}\n]",
         "page_info": "第38頁, 第167頁, 第166頁"
       },
       {
         "keyword": "% recycled materials",
         "indicator": "指標1_再生材料使用比例",
-        "value": "89.1%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 32\n}\n]",
         "page_info": "第109頁, 第108頁, 第107頁"
       },
       {
         "keyword": "recycled plastic usage rate",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
         "page_info": "第167頁, 第168頁, 第169頁"
       },
       {
         "keyword": "PCR material use",
         "indicator": "指標1_再生材料使用比例",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
         "page_info": "第56頁, 第167頁, 第55頁"
       },
       {
         "keyword": "post-consumer plastic share",
         "indicator": "指標1_再生材料使用比例",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
         "page_info": "第86頁, 第56頁, 第62頁"
       },
       {
         "keyword": "Recycled Content Claim",
         "indicator": "指標1_再生材料使用比例",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 10\n}\n]",
         "page_info": "第163頁, 第3頁, 第23頁"
       }
     ],
@@ -123,118 +123,118 @@
       {
         "keyword": "再生材料碳排放",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 4\n}\n]",
         "page_info": "第86頁, 第84頁, 第83頁"
       },
       {
         "keyword": "碳足跡比較",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 58\n}\n]",
         "page_info": "第93頁, 第66頁, 第83頁"
       },
       {
         "keyword": "再生料減碳量",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 52\n}\n]",
         "page_info": "第93頁, 第83頁, 第167頁"
       },
       {
         "keyword": "歷年GHG排放量",
         "indicator": "指標2_碳排放數據比較",
-        "value": "19,850,908 噸 CO2e",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 47\n}\n]",
         "page_info": "第162頁, 第92頁, 第91頁"
       },
       {
         "keyword": "減碳數據",
         "indicator": "指標2_碳排放數據比較",
-        "value": "100,000 噸 CO2e/年",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 41\n}\n]",
         "page_info": "第93頁, 第66頁, 第66頁"
       },
       {
         "keyword": "碳排年表",
         "indicator": "指標2_碳排放數據比較",
-        "value": "19,850,908 噸 CO2e",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 35\n}\n]",
         "page_info": "第10頁, 第66頁, 第91頁"
       },
       {
         "keyword": "GHG減量",
         "indicator": "指標2_碳排放數據比較",
-        "value": "2025年較基準年減量20%",
-        "value_type": "number",
-        "confidence": 0.7,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 29\n}\n]",
         "page_info": "第81頁, 第9頁, 第95頁"
       },
       {
         "keyword": "recycled material carbon footprint",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
         "page_info": "第8頁, 第93頁, 第58頁"
       },
       {
         "keyword": "CO2 savings over years",
         "indicator": "指標2_碳排放數據比較",
-        "value": "81.1 噸 CO2e/年",
-        "value_type": "number",
-        "confidence": 0.9,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
         "page_info": "第66頁, 第10頁, 第83頁"
       },
       {
         "keyword": "annual GHG reduction",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 12\n}\n]",
         "page_info": "第118頁, 第161頁, 第159頁"
       },
       {
         "keyword": "CO2e savings by PCR",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 6\n}\n]",
         "page_info": "第56頁, 第162頁, 第90頁"
       },
       {
         "keyword": "carbon footprint of recycled materials",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n}\n]",
         "page_info": "第84頁, 第58頁, 第93頁"
       },
       {
         "keyword": "GHG reduction by recycled content",
         "indicator": "指標2_碳排放數據比較",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]",
         "page_info": "第23頁, 第161頁, 第27頁"
       }
     ],
@@ -242,100 +242,100 @@
       {
         "keyword": "原生料與再生料比較",
         "indicator": "指標3_資源循環效益比較",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.7,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 49\n}\n]",
         "page_info": "第84頁, 第167頁, 第107頁"
       },
       {
         "keyword": "資源節省",
         "indicator": "指標3_資源循環效益比較",
-        "value": "5%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 43\n}\n]",
         "page_info": "第95頁, 第98頁, 第70頁"
       },
       {
         "keyword": "資源使用效率",
         "indicator": "指標3_資源循環效益比較",
-        "value": "4.9%",
-        "value_type": "percentage",
-        "confidence": 0.7,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 37\n}\n]",
         "page_info": "第68頁, 第68頁, 第75頁"
       },
       {
         "keyword": "再生材料節能與新料比較",
         "indicator": "指標3_資源循環效益比較",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.8,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 31\n}\n]",
         "page_info": "第84頁, 第86頁, 第75頁"
       },
       {
         "keyword": "回收資源效率",
         "indicator": "指標3_資源循環效益比較",
-        "value": "30%",
-        "value_type": "percentage",
-        "confidence": 0.7,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
         "page_info": "第56頁, 第107頁, 第167頁"
       },
       {
         "keyword": "virgin vs recycled resource efficiency",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
         "page_info": "第61頁, 第168頁, 第86頁"
       },
       {
         "keyword": "material savings",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 13\n}\n]",
         "page_info": "第107頁, 第109頁, 第163頁"
       },
       {
         "keyword": "resource efficiency",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 8\n}\n]",
         "page_info": "第29頁, 第28頁, 第27頁"
       },
       {
         "keyword": "virgin vs recycled materials",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 2\n}\n]",
         "page_info": "第56頁, 第55頁, 第86頁"
       },
       {
         "keyword": "environmental savings comparison",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 56\n}\n]",
         "page_info": "第73頁, 第5頁, 第29頁"
       },
       {
         "keyword": "recycled vs virgin environmental impact",
         "indicator": "指標3_資源循環效益比較",
-        "value": "未提及",
-        "value_type": "percentage",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 50\n}\n]",
         "page_info": "第29頁, 第72頁, 第160頁"
       }
     ],
@@ -343,118 +343,118 @@
       {
         "keyword": "產品壽命",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 44\n}\n]",
         "page_info": "第63頁, 第169頁, 第164頁"
       },
       {
         "keyword": "延長使用年限",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 38\n}\n]",
         "page_info": "第8頁, 第144頁, 第36頁"
       },
       {
         "keyword": "可維修設計",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 32\n}\n]",
         "page_info": "第164頁, 第85頁, 第63頁"
       },
       {
         "keyword": "模組化設計",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
         "page_info": "第56頁, 第13頁, 第46頁"
       },
       {
         "keyword": "耐用性提升",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
         "page_info": "第55頁, 第144頁, 第84頁"
       },
       {
         "keyword": "維修服務年限",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 14\n}\n]",
         "page_info": "第132頁, 第144頁, 第141頁"
       },
       {
         "keyword": "延長保固",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 9\n}\n]",
         "page_info": "第136頁, 第172頁, 第3頁"
       },
       {
         "keyword": "product lifespan",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 3\n}\n]",
         "page_info": "第164頁, 第93頁, 第87頁"
       },
       {
         "keyword": "durability",
         "indicator": "指標4_產品延長壽命",
-        "value": "是",
-        "value_type": "boolean_or_number",
-        "confidence": 0.9,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
         "page_info": "第122頁, 第87頁, 第62頁"
       },
       {
         "keyword": "modular design",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 52\n}\n]",
         "page_info": "第13頁, 第59頁, 第87頁"
       },
       {
         "keyword": "repairability",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 46\n}\n]",
         "page_info": "第141頁, 第145頁, 第25頁"
       },
       {
         "keyword": "upgradeable",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 40\n}\n]",
         "page_info": "第27頁, 第85頁, 第144頁"
       },
       {
         "keyword": "extension service life",
         "indicator": "指標4_產品延長壽命",
-        "value": "未提及",
-        "value_type": "boolean_or_number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 36\n}\n]",
         "page_info": "第46頁, 第1頁, 第31頁"
       }
     ],
@@ -462,91 +462,91 @@
       {
         "keyword": "每公斤成本",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 30\n}\n]",
         "page_info": "第66頁, 第95頁, 第167頁"
       },
       {
         "keyword": "每單位碳排放",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
         "page_info": "第92頁, 第162頁, 第66頁"
       },
       {
         "keyword": "每單位效益",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
         "page_info": "第164頁, 第167頁, 第44頁"
       },
       {
         "keyword": "再生塑膠性價比",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 12\n}\n]",
         "page_info": "第144頁, 第169頁, 第86頁"
       },
       {
         "keyword": "循環效益與成本比",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 7\n}\n]",
         "page_info": "第86頁, 第77頁, 第66頁"
       },
       {
         "keyword": "unit economic benefit",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 1\n}\n]",
         "page_info": "第44頁, 第33頁, 第27頁"
       },
       {
         "keyword": "cost per kg",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
         "page_info": "第167頁, 第77頁, 第125頁"
       },
       {
         "keyword": "CO2 per unit",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 50\n}\n]",
         "page_info": "第66頁, 第162頁, 第171頁"
       },
       {
         "keyword": "ROI of recycling",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 44\n}\n]",
         "page_info": "第101頁, 第29頁, 第163頁"
       },
       {
         "keyword": "lifecycle cost benefit",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 38\n}\n]",
         "page_info": "第55頁, 第77頁, 第61頁"
       },
       {
@@ -561,28 +561,28 @@
       {
         "keyword": "lifecycle unit cost",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
         "page_info": "第55頁, 第66頁, 第77頁"
       },
       {
         "keyword": "unit GHG",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
         "page_info": "第162頁, 第161頁, 第118頁"
       },
       {
         "keyword": "recycled vs virgin unit value",
         "indicator": "指標5_單位經濟效益",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
         "page_info": "第163頁, 第168頁, 第86頁"
       }
     ],
@@ -590,127 +590,127 @@
       {
         "keyword": "循環次數",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 11\n}\n]",
         "page_info": "第70頁, 第163頁, 第8頁"
       },
       {
         "keyword": "再利用次數",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 5\n}\n]",
         "page_info": "第8頁, 第75頁, 第107頁"
       },
       {
         "keyword": "再生次數",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 59\n}\n]",
         "page_info": "第127頁, 第169頁, 第8頁"
       },
       {
         "keyword": "可再製次數",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 53\n}\n]",
         "page_info": "第107頁, 第8頁, 第167頁"
       },
       {
         "keyword": "再加工循環",
         "indicator": "指標6_循環再製次數",
-        "value": "100 噸/年",
-        "value_type": "number",
-        "confidence": 0.9,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 47\n}\n]",
         "page_info": "第86頁, 第101頁, 第107頁"
       },
       {
         "keyword": "材料耐久",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 41\n}\n]",
         "page_info": "第144頁, 第55頁, 第169頁"
       },
       {
         "keyword": "回收次數",
         "indicator": "指標6_循環再製次數",
-        "value": "263 次",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 36\n}\n]",
         "page_info": "第107頁, 第169頁, 第108頁"
       },
       {
         "keyword": "recycling cycles",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 30\n}\n]",
         "page_info": "第55頁, 第8頁, 第163頁"
       },
       {
         "keyword": "number of reuse times",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
         "page_info": "第120頁, 第169頁, 第163頁"
       },
       {
         "keyword": "remanufacturing times",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
         "page_info": "第36頁, 第2頁, 第23頁"
       },
       {
         "keyword": "recycled loops",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
         "page_info": "第75頁, 第107頁, 第168頁"
       },
       {
         "keyword": "recycled material durability",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 9\n}\n]",
         "page_info": "第109頁, 第107頁, 第55頁"
       },
       {
         "keyword": "durability of recycled material",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 3\n}\n]",
         "page_info": "第107頁, 第109頁, 第55頁"
       },
       {
         "keyword": "material degradation",
         "indicator": "指標6_循環再製次數",
-        "value": "未提及",
-        "value_type": "number",
-        "confidence": 1.0,
-        "source_text": "",
+        "value": "提取失敗",
+        "value_type": "error",
+        "confidence": 0.0,
+        "source_text": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
         "page_info": "第107頁, 第144頁, 第87頁"
       }
     ]
@@ -719,159 +719,49 @@
     "total_keywords": 78,
     "found_keywords": 78,
     "not_found_keywords": 0,
-    "high_confidence_results": 73,
+    "high_confidence_results": 1,
     "indicators_summary": {
       "指標1_再生材料使用比例": {
         "total": 13,
         "found": 13,
         "not_found": 0,
-        "high_confidence": 12,
-        "key_findings": [
-          {
-            "keyword": "再生材料使用比例",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "再生塑膠佔比",
-            "value": "30%",
-            "confidence": 0.7
-          },
-          {
-            "keyword": "PCR材料使用",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "導入再生料",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "PCR plastic usage",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "% recycled materials",
-            "value": "89.1%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "recycled plastic usage rate",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "PCR material use",
-            "value": "30%",
-            "confidence": 0.8
-          }
-        ]
+        "high_confidence": 0,
+        "key_findings": []
       },
       "指標2_碳排放數據比較": {
         "total": 13,
         "found": 13,
         "not_found": 0,
-        "high_confidence": 12,
-        "key_findings": [
-          {
-            "keyword": "歷年GHG排放量",
-            "value": "19,850,908 噸 CO2e",
-            "confidence": 1.0
-          },
-          {
-            "keyword": "減碳數據",
-            "value": "100,000 噸 CO2e/年",
-            "confidence": 1.0
-          },
-          {
-            "keyword": "碳排年表",
-            "value": "19,850,908 噸 CO2e",
-            "confidence": 1.0
-          },
-          {
-            "keyword": "GHG減量",
-            "value": "2025年較基準年減量20%",
-            "confidence": 0.7
-          },
-          {
-            "keyword": "CO2 savings over years",
-            "value": "81.1 噸 CO2e/年",
-            "confidence": 0.9
-          }
-        ]
+        "high_confidence": 0,
+        "key_findings": []
       },
       "指標3_資源循環效益比較": {
         "total": 11,
         "found": 11,
         "not_found": 0,
-        "high_confidence": 8,
-        "key_findings": [
-          {
-            "keyword": "原生料與再生料比較",
-            "value": "30%",
-            "confidence": 0.7
-          },
-          {
-            "keyword": "資源節省",
-            "value": "5%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "資源使用效率",
-            "value": "4.9%",
-            "confidence": 0.7
-          },
-          {
-            "keyword": "再生材料節能與新料比較",
-            "value": "30%",
-            "confidence": 0.8
-          },
-          {
-            "keyword": "回收資源效率",
-            "value": "30%",
-            "confidence": 0.7
-          }
-        ]
+        "high_confidence": 0,
+        "key_findings": []
       },
       "指標4_產品延長壽命": {
         "total": 13,
         "found": 13,
         "not_found": 0,
-        "high_confidence": 13,
-        "key_findings": [
-          {
-            "keyword": "durability",
-            "value": "是",
-            "confidence": 0.9
-          }
-        ]
+        "high_confidence": 0,
+        "key_findings": []
       },
       "指標5_單位經濟效益": {
         "total": 14,
         "found": 14,
         "not_found": 0,
-        "high_confidence": 14,
+        "high_confidence": 1,
         "key_findings": []
       },
       "指標6_循環再製次數": {
         "total": 14,
         "found": 14,
         "not_found": 0,
-        "high_confidence": 14,
-        "key_findings": [
-          {
-            "keyword": "再加工循環",
-            "value": "100 噸/年",
-            "confidence": 0.9
-          },
-          {
-            "keyword": "回收次數",
-            "value": "263 次",
-            "confidence": 1.0
-          }
-        ]
+        "high_confidence": 0,
+        "key_findings": []
       }
     }
   },
